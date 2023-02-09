@@ -3,6 +3,6 @@
 ### Classifying Farsi Comments into two Classes : Informative, Non-Informative
 
 Using mulitple Features such as Tfid, WordEmbedding
-Multiple Preprocessing Approach
-Custom GRU Networks
-Fasttext Classifying 
+-Multiple Preprocessing Approachse
+-Custom GRU Networks
+-Fasttext Classifying 
